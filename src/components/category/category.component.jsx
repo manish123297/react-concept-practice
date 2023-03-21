@@ -9,7 +9,7 @@ const Category = () => {
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
-    // console.log(SHOP_DATA.keys());
+    // to get the particular products array like Hats Array or Sneakers Array
     SHOP_DATA.map((product) => {
       //   console.log(title);
       if (product.title === category) {
