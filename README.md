@@ -1,4 +1,4 @@
-# react-concept-practice
+# react-dynamic-routing
 
 To learn different concepts of react individually(Here React static and dynamic routing)
 shop-data.js->has all the data that we have used
