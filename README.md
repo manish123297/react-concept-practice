@@ -7,7 +7,7 @@ shop-data.js->has all the data that we have used
 
 This branch is used here to add the static route
 
-# dynamic-route branch
+# dynamic-route branch-main branch
 
 1.This branch is using dynamic-routing
 2.implementation:
